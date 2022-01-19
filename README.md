@@ -14,6 +14,8 @@ v) Enjoy watching your movies!!!
 
 # Screenshots:
 
+![Screenshot 2022-01-19 234640](https://user-images.githubusercontent.com/85382114/150190238-3195abd1-eb6c-4bbb-9dc6-d80d389d5ec2.png)
+
 ![Screenshot 2022-01-19 234619](https://user-images.githubusercontent.com/85382114/150190231-d9312b67-6880-4af9-a133-4f5af61d0f44.png)
 
-![Screenshot 2022-01-19 234640](https://user-images.githubusercontent.com/85382114/150190238-3195abd1-eb6c-4bbb-9dc6-d80d389d5ec2.png)
+
