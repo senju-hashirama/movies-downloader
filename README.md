@@ -1,7 +1,8 @@
-# Movies-Downloader
+# Movies-Downloader 🎥🎥🎥
 Download almost any movie(English movies only as of now) you feel like watching!!!!!
 
-# How to install???
+# How to install??? ![image](https://user-images.githubusercontent.com/85382114/150190695-272fd2a0-6ea3-4fcb-93c4-70b3626d05ef.png)
+
 i) Clone the repo or download the files a zip file.
 
 ii) Open cmd and navigate to the files.
