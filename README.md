@@ -2,9 +2,9 @@
 Download almost any movie(English movies only as of now) you feel like watching!!!!!
 
 # 🤔🤔🤔 How to install??? 🤔🤔🤔
-i) Clone the repo or download the files a zip file.
+i) Clone the repo or download the files as a zip file.
 
-ii) Open cmd and navigate to the files.
+ii) Now open cmd and navigate to the directory where the files are.
 
 iii) Run "pip install -r requirements.txt"
 
